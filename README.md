@@ -13,7 +13,7 @@ To download and build:
 	$ mkdir build
 	$ mkdir install
 	$ cd build
-	$ cmake "-DCMAKE_INSTALL_PREFIX:PATH=$BASEDIR/install" ..
+	$ cmake "-DCMAKE_INSTALL_PREFIX:PATH=../install" ..
 	$ make -j install
 	
 System requirements:
