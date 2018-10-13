@@ -1,10 +1,10 @@
-# Introduction
+# MATOG: CUDA Array Access Auto-Tuner
 
 MATOG Auto-Tuning on GPUs is a tool to automatically optimize performance of NVIDIA CUDA code. The aim is to optimize arbitrary CUDA applications with as few code adaptions and limitations as possible. MATOG is written in C++, platform independent and does require only a few external tools. For more details, please visit: www.matog.org.
 
 MATOG is no longer maintained and might not work with newer program libraries or hardware.
 
-# Building MATOG
+## Building MATOG
 
 To download and build:
 
@@ -21,5 +21,5 @@ System requirements:
 * CUDA 6.0
 * GCC 4.8 or Visual Studio 2012
 	
-# Documentation
+## Documentation
 For further information, please refer to the docs/MATOGv5.0.html documentation.
