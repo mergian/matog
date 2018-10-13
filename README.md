@@ -17,9 +17,9 @@ To download and build:
 	$ make -j install
 	
 System requirements:
-	* Intel TBB 4.4 (www.threadingbuildingblocks.org)
-	* CUDA 6.0
-	* GCC 4.8 or Visual Studio 2012
+* Intel TBB 4.4 (www.threadingbuildingblocks.org)
+* CUDA 6.0
+* GCC 4.8 or Visual Studio 2012
 	
 # Documentation
 For further information, please refer to the docs/MATOGv5.0.html documentation.
