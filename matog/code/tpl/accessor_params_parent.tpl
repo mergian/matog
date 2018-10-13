@@ -1,0 +1,1 @@
+__accessor_{{>IDENT}}<T>& parent

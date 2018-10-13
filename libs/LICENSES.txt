@@ -1,0 +1,3 @@
+CTEMPLATE:  BSD-3-Clause
+JsonCPP:    MIT-License
+SQLite:     Public Domain

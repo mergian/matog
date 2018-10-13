@@ -1,0 +1,1 @@
+{{TYPE}} m_ptr[{{>ELEMENT_COUNTS}}];

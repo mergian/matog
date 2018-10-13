@@ -1,0 +1,1 @@
+{{GLOBAL_NAME}}Type::ptr m_ptr;

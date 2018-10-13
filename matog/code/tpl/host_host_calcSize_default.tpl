@@ -1,0 +1,1 @@
+return calc_size_by_elements({{#DIMS}}{{DIM}}{{#DIMS_separator}} * {{/DIMS_separator}}{{/DIMS}});

@@ -1,0 +1,1 @@
+ptr += ({{#ITEM}}sizeof({{>TYPE}}){{#ITEM_separator}} + {{/ITEM_separator}}{{/ITEM}}) * element_count{{>PARENT_NAME}}();

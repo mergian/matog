@@ -1,0 +1,1 @@
+return element_count() * sizeof({{TYPE}});

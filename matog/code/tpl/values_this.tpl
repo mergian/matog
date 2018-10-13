@@ -1,0 +1,1 @@
+{{#VALUES}}{{#IS_CHAR}}this->{{/IS_CHAR}}{{>NAME}}{{#VALUES_separator}}, {{/VALUES_separator}}{{/VALUES}}

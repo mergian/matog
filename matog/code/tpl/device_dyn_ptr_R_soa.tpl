@@ -1,0 +1,1 @@
+__ptr<{{TYPE}}>({{OFFSET}} * element_count())[idx]

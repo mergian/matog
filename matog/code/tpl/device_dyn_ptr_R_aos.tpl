@@ -1,0 +1,1 @@
+__ptr<__aos>()[idx].{{FIELD}}

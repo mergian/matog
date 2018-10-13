@@ -1,0 +1,1 @@
+__ptr<__restrict__ {{TYPE}}*>()[idx]

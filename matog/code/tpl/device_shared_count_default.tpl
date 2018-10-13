@@ -1,0 +1,1 @@
+{{#DIMS}}{{VALUE}}{{#DIMS_separator}} * {{/DIMS_separator}}{{/DIMS}}

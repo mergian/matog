@@ -1,0 +1,1 @@
+typedef {{TYPE}} __{{NAME}}[{{COUNT}}]

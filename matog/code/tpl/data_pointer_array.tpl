@@ -1,0 +1,1 @@
+{{TYPE}}* __restrict__ m_ptr;

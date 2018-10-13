@@ -1,0 +1,1 @@
+const {{INDEX_TYPE}} _{{>IDENT}}

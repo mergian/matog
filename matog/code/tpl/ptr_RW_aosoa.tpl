@@ -1,0 +1,1 @@
+m_ptr.aosoa[idx/32].{{FIELD}}[idx%32]

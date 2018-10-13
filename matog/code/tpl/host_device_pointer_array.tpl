@@ -1,0 +1,1 @@
+CUdeviceptr m_ptr;

@@ -1,0 +1,1 @@
+.__soa.{{FIELD}}[idx{{>PARENT_NAME}}]

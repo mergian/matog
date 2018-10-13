@@ -1,0 +1,1 @@
+__ptr<__aosoa>()[idx/32].{{FIELD}}[idx%32]

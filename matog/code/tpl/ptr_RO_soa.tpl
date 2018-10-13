@@ -1,0 +1,1 @@
+m_ptr.soa.{{FIELD}}[idx]

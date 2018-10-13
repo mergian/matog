@@ -1,0 +1,1 @@
+m_ptr = reinterpret_cast<{{TYPE}}*>(m_dataPtr);
